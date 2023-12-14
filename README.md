@@ -1,6 +1,14 @@
 # Proyecto OpenCV
 
 Este proyecto utiliza OpenCV para procesar un video, detectar rostros y guardar imágenes de las caras detectadas.
+#Estructura
+OpenCV
+├── haarcascades
+│   └── haarcascade_frontalface_default.xml
+├── videos
+│   └── video.mp4
+├── frames
+└── OpenCV.sln
 
 ## Requisitos
 
