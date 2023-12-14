@@ -2,7 +2,9 @@
 
 Este proyecto utiliza OpenCV para procesar un video, detectar rostros y guardar imágenes de las caras detectadas.
 #Estructura
-OpenCV
+
+
+```CSS
 ├── haarcascades
 │ └── haarcascade_frontalface_default.xml
 ├── videos
@@ -10,7 +12,7 @@ OpenCV
 ├── frames
 │ └── output
 └── OpenCV.sln
-
+```
 ## Requisitos
 
 - [OpenCvSharp](https://github.com/shimat/opencvsharp): Asegúrate de tener instalada esta biblioteca. Puedes instalarla a través de NuGet.
