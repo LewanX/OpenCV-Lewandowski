@@ -25,4 +25,4 @@ El programa leera en primera instancia un archivo de video dentro de la carpeta 
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/OpenCV.git
+   git clone [https://github.com/tu-usuario/OpenCV.git](https://github.com/LewanX/OpenCV-Lewandowski.git)https://github.com/LewanX/OpenCV-Lewandowski.git
