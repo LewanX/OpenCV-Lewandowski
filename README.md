@@ -1,7 +1,8 @@
 # Proyecto OpenCV
 
 Este proyecto utiliza OpenCV para procesar un video, detectar rostros y guardar imágenes de las caras detectadas.
-#Estructura
+
+# Estructura
 
 
 ```CSS
