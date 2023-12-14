@@ -47,3 +47,14 @@ El programa leera en primera instancia un archivo de video dentro de la carpeta 
    git clone https://github.com/LewanX/OpenCV-Lewandowski.git
 
 )
+# PROCESO
+![image](https://github.com/LewanX/OpenCV-Lewandowski/assets/85626827/3295ceb4-89fa-455e-aed7-49c644e33bdc)
+# RESULTADO
+![image](https://github.com/LewanX/OpenCV-Lewandowski/assets/85626827/95d8cc20-d27e-4c5e-b8c8-3a1d9a0790fc)
+![image](https://github.com/LewanX/OpenCV-Lewandowski/assets/85626827/2e28e6a5-ffa9-419f-a8a0-fdb187bfdb03)
+![image](https://github.com/LewanX/OpenCV-Lewandowski/assets/85626827/9b8005fc-d1d0-44ea-a640-2816f8660b63)
+
+
+
+
+
