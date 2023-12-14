@@ -14,6 +14,7 @@ Este proyecto utiliza OpenCV para procesar un video, detectar rostros y guardar 
 │ └── output
 └── OpenCV.sln
 ```
+El archivo de video se deberá llamar video.mp4
 # Funcionamiento
 El programa leera en primera instancia un archivo de video dentro de la carpeta videos, luego comenzara con la operación de detección de rostros, a medida que lo ejecuta crea carpetas para distintas personas, esta funcion recorre todos los frames de dicho video.
 <ul>
