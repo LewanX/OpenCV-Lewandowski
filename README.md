@@ -16,6 +16,25 @@ Este proyecto utiliza OpenCV para procesar un video, detectar rostros y guardar 
 ```
 # Funcionamiento
 El programa leera en primera instancia un archivo de video dentro de la carpeta videos, luego comenzara con la operación de detección de rostros, a medida que lo ejecuta crea carpetas para distintas personas, esta funcion recorre todos los frames de dicho video.
+<ul>
+   <li>
+      Recibe un video de una persona.
+   </li>
+   <li>
+     Convierte el video en frames.
+   </li>
+   <li>
+      Detecta las caras en cada frame.
+   </li>
+   <li>
+     Calcula las diferencias faciales para cada cara detectada.
+   </li>
+   <li>
+      Genera una imagen con las diferencias faciales para cada persona.
+   </li>
+</ul>
+
+
 
 ## Requisitos
 
@@ -25,4 +44,6 @@ El programa leera en primera instancia un archivo de video dentro de la carpeta 
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/OpenCV.git](https://github.com/LewanX/OpenCV-Lewandowski.git)https://github.com/LewanX/OpenCV-Lewandowski.git
+   git clone https://github.com/LewanX/OpenCV-Lewandowski.git
+
+)
