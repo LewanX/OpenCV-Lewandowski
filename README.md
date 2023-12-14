@@ -14,6 +14,9 @@ Este proyecto utiliza OpenCV para procesar un video, detectar rostros y guardar 
 │ └── output
 └── OpenCV.sln
 ```
+# Funcionamiento
+El programa leera en primera instancia un archivo de video dentro de la carpeta videos, luego comenzara con la operación de detección de rostros, a medida que lo ejecuta crea carpetas para distintas personas, esta funcion recorre todos los frames de dicho video.
+
 ## Requisitos
 
 - [OpenCvSharp](https://github.com/shimat/opencvsharp): Asegúrate de tener instalada esta biblioteca. Puedes instalarla a través de NuGet.
